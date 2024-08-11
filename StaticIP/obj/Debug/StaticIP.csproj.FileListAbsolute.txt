@@ -1,0 +1,10 @@
+C:\Users\neera\source\repos\StaticIP\StaticIP\obj\Debug\StaticIP.csproj.AssemblyReference.cache
+C:\Users\neera\source\repos\StaticIP\StaticIP\obj\Debug\StaticIP.Form1.resources
+C:\Users\neera\source\repos\StaticIP\StaticIP\obj\Debug\StaticIP.Properties.Resources.resources
+C:\Users\neera\source\repos\StaticIP\StaticIP\obj\Debug\StaticIP.csproj.GenerateResource.cache
+C:\Users\neera\source\repos\StaticIP\StaticIP\obj\Debug\StaticIP.csproj.CoreCompileInputs.cache
+C:\Users\neera\source\repos\StaticIP\StaticIP\bin\Debug\StaticIP.exe.config
+C:\Users\neera\source\repos\StaticIP\StaticIP\bin\Debug\StaticIP.exe
+C:\Users\neera\source\repos\StaticIP\StaticIP\bin\Debug\StaticIP.pdb
+C:\Users\neera\source\repos\StaticIP\StaticIP\obj\Debug\StaticIP.exe
+C:\Users\neera\source\repos\StaticIP\StaticIP\obj\Debug\StaticIP.pdb
